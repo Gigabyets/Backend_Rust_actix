@@ -22,7 +22,7 @@ Before running this backend, make sure you have the following installed:
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/yourproject.git
+    git clone https://github.com/Gigabyets/Backend_Rust_actix.git
     cd yourproject/backend
     ```
 
